@@ -50,7 +50,7 @@ const StyledWrapper = styled.div`
   --transition: 350ms;
   --folder-W: 120px;
   --folder-H: 80px;
-  marginTop: 70px;
+  margin-top: 70px;
 
   display: flex;
   flex-direction: column;
